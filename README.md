@@ -1,0 +1,1 @@
+# Bad-Apple-Hyprland-Dotfiles
