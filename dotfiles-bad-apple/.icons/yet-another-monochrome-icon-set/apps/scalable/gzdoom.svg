@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" id="svg7" sodipodi:docname="gzdoom.svg" inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)">
+  <sodipodi:namedview id="namedview7" pagecolor="#9c4444" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="4.3531261" inkscape:cx="36.295755" inkscape:cy="40.890155" inkscape:window-width="2560" inkscape:window-height="1376" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg7" showgrid="false"/>
+  <defs id="defs2">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <metadata id="metadata2">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path id="rect7-9" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke-width:0.64194;stroke-linejoin:bevel;stroke-miterlimit:2;paint-order:fill markers stroke" d="m 3.4400685,4.3462074 a 1.2362105,1.2362105 0 0 0 -0.873953,0.3621347 c 0,0 -1.516137,1.5564217 -1.516137,4.0462535 0,1.244917 0.377653,2.1844944 0.812788,2.7828054 0.435138,0.598315 1.023638,0.919017 1.023638,0.919017 a 1.2362105,1.2362105 0 0 0 0.553664,0.130375 h 3.790341 a 1.2362105,1.2362105 0 0 0 0.824061,-0.315459 1.2362105,1.2362105 0 0 0 0.824059,0.315459 H 15.883021 V 10.114614 H 11.862519 L 15.520886,6.4562469 A 1.2362105,1.2362105 0 0 0 14.646938,4.346207 H 8.6306685 7.6424415 Z m 0.621262,2.4721738 h 3.581111 0.988227 3.0322745 L 8.4665025,10.014825 V 8.4664966 h -2.472177 v 1.6481174 h -2.105208 c -0.0043,-0.0057 -0.0072,-0.0086 -0.008,-0.0096 -0.0018,-0.0019 -0.0072,-0.008 -0.01782,-0.02252 -0.141715,-0.1948474 -0.34121,-0.5538024 -0.34121,-1.3278284 0,-1.054486 0.304949,-1.606966 0.539177,-1.9362145 z"/>
+</svg>

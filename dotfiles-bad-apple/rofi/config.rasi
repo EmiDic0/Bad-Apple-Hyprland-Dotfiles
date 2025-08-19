@@ -1,0 +1,14 @@
+configuration {
+
+    modes: [ drun, window, filebrowser];
+    sidebar-mode: true;
+    icon-theme: "yet-another-monochome-icon-set";
+    
+    display-drun: "Apps";
+    display-window: "Windows";
+    display-filebrowser: "Files";
+}
+
+@theme "/usr/share/rofi/themes/sidebarEmi.rasi"
+
+

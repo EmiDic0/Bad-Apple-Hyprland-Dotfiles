@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" id="svg7" sodipodi:docname="filezilla.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+  <sodipodi:namedview id="namedview7" pagecolor="#9c4444" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="6.15625" inkscape:cx="45.482234" inkscape:cy="29.563452" inkscape:window-width="1226" inkscape:window-height="669" inkscape:window-x="35" inkscape:window-y="32" inkscape:window-maximized="0" inkscape:current-layer="svg7" showgrid="false"/>
+  <defs id="defs2">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style></defs>
+  <metadata id="metadata2">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path style="fill:currentColor;stroke-width:0.366466" d="M 4.5437626,1.910919 1.8700184,13.637796 h 2.1727102 l 1.262113,-5.1305415 h 5.9309034 l -5.5542484,4.6357435 1.4482781,1.667425 0.7417296,-0.381859 c 1.4024698,-0.721105 1.9907229,-0.299461 3.0547967,-0.0044 1.035195,0.28728 2.008313,0.594748 4.027401,-0.569065 l -0.400961,-2.05401 C 12.34925,13.367838 11.652155,11.97001 10.082796,11.91453 L 14.57583,8.4060437 15.063358,6.6749186 H 5.6517468 L 6.2575903,3.7431816 H 12.426331 L 12.849374,1.9112929 H 4.5444956 Z" id="path4-3" class="ColorScheme-Text"/>
+  </svg>

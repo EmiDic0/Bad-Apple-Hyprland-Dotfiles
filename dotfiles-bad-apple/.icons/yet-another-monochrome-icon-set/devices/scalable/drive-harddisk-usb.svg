@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3297" height="64" width="64" version="1.0" sodipodi:docname="drive-harddisk-usb.svg" inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)">
+  <sodipodi:namedview id="namedview1" pagecolor="#9c4444" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="6.5468751" inkscape:cx="8.2482099" inkscape:cy="7.9427206" inkscape:window-width="2560" inkscape:window-height="1376" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3297"/>
+  <metadata id="metadata58">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs3299">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.9295;stroke-dasharray:none;stroke-opacity:0.3" class="ColorScheme-Text" d="M 31.987882,12 25.73788,22 h 3.750002 V 34.5 H 21.987881 V 31.32129 C 23.532155,30.429718 24.48473,28.78325 24.48788,27.000002 24.48788,24.2385 22.249304,22 19.487881,22 c -2.761428,0 -5,2.238576 -5,5.000002 0.0014,1.784924 0.954222,3.433672 2.499998,4.326171 V 34.5 c 0,5.000002 5.000002,5.000002 5.000002,5.000002 h 7.500001 v 3.178712 c -1.544278,0.891575 -2.496852,2.53804 -2.499999,4.32129 0,2.761498 2.238572,4.999996 4.999999,4.999996 2.761423,0 4.999998,-2.238572 4.999998,-4.999996 -0.0014,-1.784929 -0.954225,-3.433676 -2.499998,-4.326177 v -3.173825 h 7.500004 c 0,0 4.999996,0 4.999996,-5 v -2.5 c 0,0 2.812501,-0.468749 2.499998,-2.5 V 24.500005 C 49.800388,21.687503 46.987882,22 46.987882,22 h -4.999996 c -2.656255,0 -2.500007,2.500005 -2.500007,2.500005 v 4.999997 c 0,2.5 2.500007,2.5 2.500007,2.5 V 34.5 H 34.487882 V 22 h 3.750003 z" id="path5-3"/>
+</svg>

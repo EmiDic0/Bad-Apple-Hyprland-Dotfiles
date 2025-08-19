@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" id="svg7" sodipodi:docname="in.cinny.Cinny.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+  <sodipodi:namedview id="namedview7" pagecolor="#9c4444" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="4.3531261" inkscape:cx="22.397697" inkscape:cy="29.633876" inkscape:window-width="1183" inkscape:window-height="941" inkscape:window-x="35" inkscape:window-y="32" inkscape:window-maximized="0" inkscape:current-layer="svg7" showgrid="false"/>
+  <defs id="defs2">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style></defs>
+  <metadata id="metadata2">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path style="fill:currentColor;fill-opacity:1;stroke-width:0.362803" d="M 8.0213889,2.0686534 C 5.9896949,2.2943975 4.5237467,3.7216714 4.5237467,5.7533661 v 0.3387096 l -3.91548159,2.4421281 0.004579,6.2369002 c 4.6606e-4,0.635528 5.35002929,0.36078 6.73112999,0.309117 C 7.6825854,14.741605 7.9081078,14.56632 8.2467234,14.114833 9.2625709,12.647497 9.71494,11.067385 9.71494,9.3743059 c 0,-1.3544641 0.451363,-2.3797583 1.241466,-3.3956059 0.790103,-1.1287189 1.917843,-1.5801747 3.272309,-1.5801747 0.790102,-7e-7 1.468404,0.1143839 2.145634,0.3401276 C 15.697119,4.2871656 14.90686,3.9482664 14.116756,3.722522 13.665267,3.6096506 13.213403,3.6091452 12.761915,3.6091452 c -0.338616,0 -0.677515,5.079e-4 -1.016129,0.1133768 C 11.068553,2.5938033 9.8279381,2.0686534 8.4734752,2.0686534 Z m 1.899045,1.1054135 c 0.3005561,4e-7 0.5442041,0.2436482 0.5442041,0.5442035 10e-7,0.3005559 -0.243647,0.5442039 -0.5442041,0.5442043 -0.3005558,0 -0.5442041,-0.2436482 -0.5442037,-0.5442043 0,-0.3005553 0.2436484,-0.5442035 0.5442037,-0.5442035 z" id="path3-6" sodipodi:nodetypes="csccsccscsccscscsssss" class="ColorScheme-Text"/>
+  </svg>

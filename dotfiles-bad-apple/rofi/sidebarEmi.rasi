@@ -1,0 +1,152 @@
+/**
+ * ROFI Color theme
+ * User: Qball
+ * Copyright: Dave Davenport
+ */
+
+* {
+    background-color: inherit; 
+    // Bold, Italic, Underline
+    highlight:     bold #880000ff;
+}
+window {
+    background-color: black;
+    border-color:     transparent;
+    border-radius:    10;
+
+    padding: 10;
+
+    height:   750;
+    width:    750;
+    border:  0;
+    text-color: white;
+
+
+    location: center;
+    anchor:   center;
+}
+inputbar {
+    background-color: transparent;
+    text-color:       white;
+    children: [prompt, entry];
+    spacing: 0mm;
+}
+prompt {
+  border-radius: 10;
+  width: 15mm;
+}
+textbox-end {
+  border-radius: 10;
+  width: 15mm;
+  expand: false;
+}
+entry {
+  background-color: transparent;
+}
+prompt, entry, textbox-end, num-filtered-rows {
+  background-color: black;
+  text-color: white;
+  padding: 2mm;
+  vertical-align: 0.5;
+}
+element {
+    border-radius: 10;
+    children: [element-icon];
+}
+textbox-current-entry {
+    border-radius: 10;
+    background-color: black;
+    text-color: white;
+    placeholder: "n/a";
+    padding: 2mm;
+    horizontal-align: 0.5;
+  }
+element-icon {
+  expand: true;
+  size: 10mm;
+  vertial-align: 0.5;
+  horizontal-align: 0.5;
+  padding: 2mm;
+}
+mode-switcher{
+    spacing: 20;
+}
+
+button {
+    padding: 10;
+    text-color: white;
+    background-color: transparent;
+    margin: 10;
+}
+
+button selected {
+    border-radius: 10;
+    background-color: black;
+    text-color: white;
+    border-color: white;
+    border: 1;
+}
+
+mainbox {
+    expand: true;
+    background-color: inherit;
+    spacing:  5mm;
+    children: [
+                inputbar,
+                mode-switcher,
+                listview,
+                icon-current-entry,
+                textbox-current-entry
+    ];
+}
+icon-current-entry {
+    size: 50mm;
+  }
+listview {
+    padding: 0em;
+    dynamic: false;
+    lines: 0;
+    columns: 8;
+    flow: horizontal;
+}
+element selected  normal {
+    background-color: black;
+    text-color: white;
+    border-color: white;
+    border: 1;
+}
+element normal active {
+    background-color: black;
+    text-color: white;
+}
+element normal urgent {
+    background-color: @urgent-background;
+    text-color: @urgent-foreground;
+}
+element alternate normal {
+    background-color: @alternate-normal-background;
+    text-color: @alternate-normal-foreground;
+}
+element alternate active {
+    background-color: @alternate-active-background;
+    text-color: @alternate-active-foreground;
+}
+element alternate urgent {
+    background-color: @alternate-urgent-background;
+    text-color: @alternate-urgent-foreground;
+}
+element selected active {
+    background-color: @selected-active-background;
+    text-color: @selected-active-foreground;
+}
+element selected urgent {
+    background-color: @selected-urgent-background;
+    text-color: @selected-urgent-foreground;
+}
+error-message {
+    expand: true;
+    background-color: red;
+    border-color: darkred;
+    border: 0px;
+    padding: 1em;
+}

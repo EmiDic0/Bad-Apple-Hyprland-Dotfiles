@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" id="svg7" sodipodi:docname="remmina.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+  <sodipodi:namedview id="namedview7" pagecolor="#9c4444" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="8.7062522" inkscape:cx="37.042345" inkscape:cy="29.748736" inkscape:window-width="1183" inkscape:window-height="941" inkscape:window-x="35" inkscape:window-y="32" inkscape:window-maximized="0" inkscape:current-layer="svg7" showgrid="false"/>
+  <defs id="defs2">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style></defs>
+  <metadata id="metadata2">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="g2" transform="matrix(0.24043911,0,0,0.24043911,0.82607414,0.77805309)" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text">
+    <polygon style="fill:#d8dee9;fill-opacity:1" class="ColorScheme-Text" transform="matrix(0.78271584,0,0,0.78911231,2.6146027,0.3168099)" points="20.62,26.92 29.55,32.88 20.62,38.83 20.62,48.01 43.32,32.88 20.62,17.74 " id="polygon6"/>
+    <polygon style="fill:#d8dee9;fill-opacity:1" class="ColorScheme-Text" transform="matrix(0.78268134,0,0,0.78907752,1.9531851,3.4079757)" points="55.39,59.23 55.39,50.05 46.46,44.1 55.39,38.14 55.39,28.96 32.69,44.1 " id="polygon10"/>
+    <path style="fill:currentColor;fill-opacity:1;stroke-width:1.02538" d="m 57.939035,17.819597 -4.980239,3.341452 A 23.692286,23.885903 0 0 1 55.720773,32.232187 23.692286,23.885903 0 0 1 32.028488,56.11809 23.692286,23.885903 0 0 1 13.799425,47.426195 l -4.9628856,3.329796 c 5.4290916,6.895655 13.8012666,11.333574 23.1919486,11.333574 16.329781,0 29.615359,-13.393361 29.615359,-29.857378 0,-5.227162 -1.353426,-10.134955 -3.704812,-14.41259 z" id="path14" class="ColorScheme-Text"/>
+    <path style="fill:currentColor;fill-opacity:1;stroke-width:1.02538" d="m 32.028488,2.3748072 c -16.330549,0 -29.6153577,13.3933618 -29.6153577,29.8573798 0,4.858845 1.1610007,9.447183 3.2131525,13.50581 L 10.629658,42.381945 A 23.692286,23.885903 0 0 1 8.3362031,32.232187 23.692286,23.885903 0 0 1 32.028488,8.3462828 23.692286,23.885903 0 0 1 49.583686,16.250911 L 54.575494,12.90361 C 49.13971,6.4674303 41.049472,2.3748072 32.028488,2.3748072 Z" id="path18-3" class="ColorScheme-Text"/>
+  </g>
+  </svg>
